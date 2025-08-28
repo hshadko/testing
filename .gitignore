@@ -1,3 +1,8 @@
+##Holly added
+#ignore anything the ends in .Rproj (i think??)
+*.Rproj
+
+
 # History files
 .Rhistory
 .Rapp.history
